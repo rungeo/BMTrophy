@@ -6,9 +6,10 @@ The app is available in the Google Play Store.
 I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. 
 
 ## Collected data
-All data (game results) created by the you (the user) is stored in a Firestore cloud database.
-There are only basic game informtaion (like results, court numbers and comments) collected and stored. 
-No personal or device informtion.
+All data (game results) created by you (the user) is stored in a Firestore cloud database.
+There are only basic game informtaion (like results, court numbers and comments) collected and stored.
+If you want to add new game data to the gae and therefore to the Firestore cloud database, you need to login and authenticate yourself to the Firestore cloud database. For this you will need an email address and a password.
+No other personal or device informtion is stored.
 
 ## App permissions
 The app requires __no__ Android permissions.
